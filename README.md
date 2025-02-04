@@ -24,6 +24,6 @@ The dataset is composed of 8047 customers, with city and region. Also, for each,
 
 ## **Data analysis**<br>
 
-Business case results presentation <br>
+Business case results [presentation](https://drive.google.com/file/d/1wmjBasqFRLYc5V7N80wfRm6Um2Il0HR9/view?usp=sharing) <br>
 
-Dashboard: pdf format, pbix format<br> 
+Dashboard: pdf, pbix<br> 
