@@ -20,7 +20,7 @@ The dataset is composed of 8047 customers, with city and region. Also, for each,
 
 ![tffgf](./images/descriptif.PNG) <br>
 
-**`Data collection`** and **`exploration`** made on pandas. You can view raw codes [here](C:\Users\Lenovo\Documents\WCS\GitHub\Business-case-Market-Price-Retail\analysis.ipynb). Overall, no major modifications on data.<br>
+**`Data collection`** and **`exploration`** made on pandas. You can view raw codes [here]([C:\Users\Lenovo\Documents\WCS\GitHub\Business-case-Market-Price-Retail\analysis.ipynb](https://github.com/Diaure/Business-case-Market-Price-Retail/blob/main/analysis.ipynb)). Overall, no major modifications on data.<br>
 
 ## **Data analysis**<br>
 
