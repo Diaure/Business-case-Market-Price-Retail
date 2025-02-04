@@ -22,6 +22,8 @@ The dataset is composed of 8047 customers, with city and region. Also, for each,
 
 **`Data collection`** and **`exploration`** made on pandas. You can view raw codes [here](https://github.com/Diaure/Business-case-Market-Price-Retail/blob/main/analysis.ipynb). Overall, no major modifications on data.<br>
 
+The new dataset, after modifications, can be viewed [here](https://github.com/Diaure/Business-case-Market-Price-Retail/blob/main/retail_data.csv).<br>
+
 ## **Data analysis**<br>
 
 **Business case results** [presentation](https://drive.google.com/file/d/1wmjBasqFRLYc5V7N80wfRm6Um2Il0HR9/view?usp=sharing) <br>
