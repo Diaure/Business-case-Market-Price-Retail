@@ -1,6 +1,6 @@
 # **Business-case-Market-Price-Retail**<br>
 
-![tffgf](./images\Capture.PNG) <br>
+![tffgf](./images/Capture.PNG) <br>
 
 ## **Business case overall goals**<br>
 
@@ -18,7 +18,7 @@ What can the company do to **`reduce costs and increase benefits`**?
 ## **Database content**<br>
 The dataset is composed of 8047 customers, with city and region. Also, for each, you have the segment matching (Home Office, Consumer, Corporate), the category, and sub-category (Paper, Art, copiers, etc.). For each product, you have the name, the discount, the sales, the profit, and the quantity.<br>
 
-![tffgf](./images\descriptif.PNG) <br>
+![tffgf](./images/descriptif.PNG) <br>
 
 **`Data collection`** and **`exploration`** made on pandas. You can view raw codes here. Overall, no major modifications on data.<br>
 
