@@ -28,4 +28,4 @@ The new dataset, after modifications, can be viewed [here](https://github.com/Di
 
 **Business case results** [presentation](https://drive.google.com/file/d/1wmjBasqFRLYc5V7N80wfRm6Um2Il0HR9/view?usp=sharing) <br>
 
-**Dashboard**: [pdf](https://drive.google.com/file/d/1Jqk6AA9dxrAWeTdKoRt9EJQhO7h2T2t_/view?usp=sharing), [pbix](https://github.com/Diaure/Business-case-Market-Price-Retail/blob/main/Market%20Price%20Retail_analysis.pbix)<br> 
+**Dashboard**: [pdf](https://drive.google.com/file/d/1D1HSCqGPjYh83ZCZjl2KeIg4EX6y9rhs/view?usp=sharing), [pbix](https://github.com/Diaure/Business-case-Market-Price-Retail/blob/main/Market%20Price%20Retail_analysis.pbix)<br> 
